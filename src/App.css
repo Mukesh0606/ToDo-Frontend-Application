@@ -1,0 +1,24 @@
+.app {
+  padding: 30px;
+  background-color: floralwhite;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.header {
+  /* background-color: #282c34; */
+
+  width:100%;
+  min-height: 4vh; 
+  /* display: flex; */
+  flex-direction: row;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  }
